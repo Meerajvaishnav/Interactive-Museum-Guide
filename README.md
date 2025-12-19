@@ -1,6 +1,6 @@
 # Interactive-Museum-Guide
 
-A modular **Python** project that simulates a smart museum guide application using advanced data structures and algorithms for exhibit search, browsing history, and shortest-path navigation inside a virtual museum.[file:1]
+A modular **Python** project that simulates a smart museum guide application using advanced data structures and algorithms for exhibit search, browsing history, and shortest-path navigation inside a virtual museum.
 
 ## Features
 
