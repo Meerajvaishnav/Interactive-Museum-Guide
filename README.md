@@ -53,11 +53,13 @@ A modular **Python** project that simulates a smart museum guide application usi
 ```bash
 # Clone the repository
 git clone https://github.com/<your-username>/smart-museum-guide.git
-cd smart-museum-guide```
+cd smart-museum-guide
+```
 
 ## Running the Demo
 ```bash
 python museum.py
+```
 
 The demo currently:
 - Inserts sample exhibits into the Trie and performs a prefix search like `"Van"`.
